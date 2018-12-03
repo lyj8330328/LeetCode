@@ -14,11 +14,13 @@ public class test {
         List<String> wordDict = Arrays.asList("cats", "dog", "sand", "and", "cat");
         List<String> wordDict2 = Arrays.asList("leet", "code");
         List<String> wordDict3 = Arrays.asList("aaaa", "aaa");
+        List<String> wordDict5 = Arrays.asList("a","aa","aaa","aaaa","aaaaa","aaaaaa","aaaaaaa","aaaaaaaa","aaaaaaaaa","aaaaaaaaaa");
 
         String s1 = "catsandog";
         String s2 = "leetcode";
         String s3 = "aaaaaaa";
-        System.out.println(wordBreak(s2,wordDict2));
+        String s5 = "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa";
+        System.out.println(wordBreak(s5,wordDict5));
 
     }
 
