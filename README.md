@@ -20,4 +20,6 @@ https://blog.csdn.net/lyj2018gyq/article/details/84769494
 
 ### 322. 零钱兑换
 
+**动态规划：0-1背包、完全背包、多重背包**
+
 https://blog.csdn.net/lyj2018gyq/article/details/84800396
