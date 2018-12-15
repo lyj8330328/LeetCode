@@ -27,3 +27,7 @@ https://blog.csdn.net/lyj2018gyq/article/details/84800396
 ### 120. 三角形最小路径和
 
 https://blog.csdn.net/lyj2018gyq/article/details/84988008
+
+### 343. 整数拆分
+
+https://blog.csdn.net/lyj2018gyq/article/details/85013237

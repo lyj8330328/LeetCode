@@ -94,6 +94,7 @@ public class Test {
                     temp.add(Arrays.asList(""));
                 }
             }
+
             List<String> list = temp.get(temp.size() - 1);
             if (list.size() == 1 && list.get(0).equals("")) {
                 return new ArrayList<>();
