@@ -30,4 +30,12 @@ https://blog.csdn.net/lyj2018gyq/article/details/84988008
 
 ### 343. 整数拆分
 
-https://blog.csdn.net/lyj2018gyq/article/details/85013237
+https://blog.csdn.net/lyj2018gyq/article/details/85013237  
+
+### 152. 乘积最大子序列
+
+https://blog.csdn.net/lyj2018gyq/article/details/85607805
+
+### 52.最大子序和
+
+https://blog.csdn.net/lyj2018gyq/article/details/83857053

@@ -7,8 +7,11 @@ package leetcode.problem343;
  */
 public class Test {
 
-    public static void main(String[] args) {
+    private static int p = 0;
+    private static int[] res = new int[20];
 
+    public static void main(String[] args) {
+        resolve(4,1);
     }
 
     public static int integerBreak(int n) {
@@ -36,5 +39,24 @@ public class Test {
         }
         return result * n;
     }
+    
+    public static void resolve(int n,int min){
+        if (n <= 0){
+            for (int i = 0; i < p; i++) {
+                System.out.printf("%5d",res[i]);
+            }
+            System.out.println();
+        }
+        for (int i = min; i <= n ; i++) {
+            res[p] = i;
+            p++;
+            resolve(n-i,i);
+            p--;
+        }
+    }
+
+
+
+
 
 }
