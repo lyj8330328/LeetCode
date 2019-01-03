@@ -43,3 +43,7 @@ https://blog.csdn.net/lyj2018gyq/article/details/83857053
 ### 162.寻求峰值
 
 https://blog.csdn.net/lyj2018gyq/article/details/85610867
+
+### 74.搜索二维矩阵
+
+https://blog.csdn.net/lyj2018gyq/article/details/85694895
