@@ -51,3 +51,7 @@ https://blog.csdn.net/lyj2018gyq/article/details/85694895
 ### 4.寻找两个有序数组的中位数
 
 https://blog.csdn.net/lyj2018gyq/article/details/85770457
+
+### 69.x的平方根
+
+https://blog.csdn.net/lyj2018gyq/article/details/85927018
