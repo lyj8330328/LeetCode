@@ -55,3 +55,7 @@ https://blog.csdn.net/lyj2018gyq/article/details/85770457
 ### 69.x的平方根
 
 https://blog.csdn.net/lyj2018gyq/article/details/85927018
+
+### 34.在排序数组中查找元素的第一个和最后一个位置
+
+https://blog.csdn.net/lyj2018gyq/article/details/85938564
