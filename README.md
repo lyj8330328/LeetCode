@@ -59,3 +59,7 @@ https://blog.csdn.net/lyj2018gyq/article/details/85927018
 ### 34.在排序数组中查找元素的第一个和最后一个位置
 
 https://blog.csdn.net/lyj2018gyq/article/details/85938564
+
+### 33.搜索旋转排序数组
+
+https://blog.csdn.net/lyj2018gyq/article/details/86068486
