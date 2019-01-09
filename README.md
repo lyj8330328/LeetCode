@@ -63,3 +63,7 @@ https://blog.csdn.net/lyj2018gyq/article/details/85938564
 ### 33.搜索旋转排序数组
 
 https://blog.csdn.net/lyj2018gyq/article/details/86068486
+
+### 287.寻找重复数字
+
+https://blog.csdn.net/lyj2018gyq/article/details/86144672
