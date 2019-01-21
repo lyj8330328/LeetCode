@@ -67,3 +67,11 @@ https://blog.csdn.net/lyj2018gyq/article/details/86068486
 ### 287.寻找重复数字
 
 https://blog.csdn.net/lyj2018gyq/article/details/86144672
+
+### 200.岛屿个数
+
+https://blog.csdn.net/lyj2018gyq/article/details/86575254
+
+### 130.被围绕的区域
+
+https://blog.csdn.net/lyj2018gyq/article/details/86578264
