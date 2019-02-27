@@ -12,19 +12,22 @@ public class Test {
     public static void main(String[] args) {
 
         LinkList linkList = new LinkList();
-        linkList.addFirstAlvinNode(9);
-        linkList.addFirstAlvinNode(9);
-        linkList.addFirstAlvinNode(9);
+        linkList.addFirstAlvinNode(1);
+        linkList.addFirstAlvinNode(2);
+        linkList.addFirstAlvinNode(3);
+        linkList.addFirstAlvinNode(4);
+        linkList.addFirstAlvinNode(5);
         linkList.displayAllNode();
 
-        LinkList linkList2 = new LinkList();
-        linkList2.addFirstAlvinNode(1);
-//        linkList2.addFirstAlvinNode(6);
-//        linkList2.addFirstAlvinNode(4);
-        linkList2.displayAllNode();
 
-        LinkList linkList3 = add(linkList,linkList2);
-        linkList3.displayAllNode();
+//        LinkList linkList2 = new LinkList();
+//        linkList2.addFirstAlvinNode(1);
+////        linkList2.addFirstAlvinNode(6);
+////        linkList2.addFirstAlvinNode(4);
+//        linkList2.displayAllNode();
+//
+//        LinkList linkList3 = add(linkList,linkList2);
+//        linkList3.displayAllNode();
     }
 
     public static LinkList add(LinkList list1,LinkList list2){
